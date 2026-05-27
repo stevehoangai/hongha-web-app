@@ -1,0 +1,7 @@
+.shopee-profile/
+**/.shopee-profile/
+node_modules/
+.vercel/
+.env
+.env.*
+*.log

@@ -1,0 +1,7 @@
+**/.shopee-profile/**
+**/node_modules/**
+**/.git/**
+scrape-product-infomation-thienlong/**
+shopee-scapre-claude-code/**
+competitor-analysis-dashboard/server.js
+competitor-analysis-dashboard/start-dashboard.ps1
